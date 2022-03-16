@@ -18,3 +18,8 @@ Learn how to fetch your content with `$content`: https://content.nuxtjs.org/fetc
 ## Displaying content
 
 Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.
+<img src="/images/cherries.jpg">
+
+[![An old rock in the desert](/images/cherries.jpg "Shiprock, New Mexico by Beau Rogers")]
+
+<img src="/images/croissant.jpg">
