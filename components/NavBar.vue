@@ -65,7 +65,7 @@
 
       <!-- Header logo -->
       <div>
-        <h1>My Food</h1>
+        <h1 class="font-body text-4xl">My Food</h1>
       </div>
 
       <!-- Header logo -->
